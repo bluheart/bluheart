@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img  src="https://github.com/bluheart/bluheart/blob/main/kevin.gif" width="348px">  <img src="https://github-readme-stats.vercel.app/api?username=bluheart&show_icons=true&theme=tokyonight">
+<img  src="https://github.com/bluheart/bluheart/blob/main/kevin.gif" width="346px">  <img src="https://github-readme-stats.vercel.app/api?username=bluheart&show_icons=true&theme=tokyonight">
 
 <!--
 **bluheart/bluheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
