@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there <img  src="https://github.com/bluheart/bluheart/blob/main/pato.gif" width="40px"> </h1>
 
 ![Blu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluheart&show_icons=true&theme=tokyonight)
 
