@@ -1,4 +1,4 @@
-<h1> Hi there <img  src="https://github.com/bluheart/bluheart/blob/main/pato.gif" width="50px"> </h1>
+<h1> Hi there </h1>
 
 
 <h3>I'm interested in</h3>
